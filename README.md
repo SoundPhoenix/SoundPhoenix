@@ -4,6 +4,9 @@
 # 🛠 Tools I use
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Pterodactyl](https://img.shields.io/badge/pterodactyl-%2331A8FF.svg?style=for-the-badge&logo=pterodactyl&logoColor=white)
 
+# 📊 Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoundPhoenix&show_icons=true&theme=radical)
+
 # 🎵 Music Providers that I use 
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
