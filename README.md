@@ -6,6 +6,7 @@
 
 # 📊 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoundPhoenix&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoundPhoenix&layout=compact)
 
 # 🎵 Music Providers that I use 
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
